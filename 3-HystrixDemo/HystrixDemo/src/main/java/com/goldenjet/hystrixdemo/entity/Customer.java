@@ -1,4 +1,4 @@
-package com.goldenjet.entity;
+package com.goldenjet.hystrixdemo.entity;
 
 import lombok.Data;
 
